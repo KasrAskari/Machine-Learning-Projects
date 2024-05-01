@@ -1,3 +1,1 @@
-Machine Learning Projects
-Educational Projects
-Self-study Projects
+Educational and self-study Machine Learning Projects
