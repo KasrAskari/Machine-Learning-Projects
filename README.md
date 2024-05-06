@@ -1,1 +1,1 @@
-My educational and self-study Machine Learning projects
+my educational and self-study Machine Learning projects
