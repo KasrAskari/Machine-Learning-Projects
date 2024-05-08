@@ -1,1 +1,1 @@
-Salary Of Business Levels with Simple-Linear-Regression
+Salary of years experience with Simple-Linear-Regression
