@@ -1,1 +1,1 @@
-Prediction of house price in Boston by "Linear Regression & Random Forest Models"
+Prediction of house price in Boston by "Linear & Random Forest Regression Models"
