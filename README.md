@@ -1,1 +1,1 @@
-my educational and self-study Machine Learning projects
+Prediction of house price in Boston by "Linear Regression & Random Forest Models"
