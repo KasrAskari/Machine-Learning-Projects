@@ -1,1 +1,1 @@
-"Diabetics Prediction" using Logistic-Regression and Confusion Matrix
+"Diabetics Prediction" using Logistic-Regression, KNN and Confusion Matrix
