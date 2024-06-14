@@ -1,3 +1,3 @@
 ## Prediction of Heart Disease
-### with Logistic-Regression
+### With SVM (Support Vector Machine)
 Dataset on Kaggle: https://www.kaggle.com/datasets/venkatkarthick/heartcsv
